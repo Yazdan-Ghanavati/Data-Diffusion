@@ -39,11 +39,11 @@ In critical care, predicting whether a patient can be successfully weaned from m
 
 ### 🔹 Visualization
 
-![Boxplot Comparison of AUC Scores](path/to/your/boxplot.png)
+<img src="boxplot.png" alt="Boxplot Comparison of AUC Scores" width="400"/>
 
 ### 🔸 CNN ROC Curve
 
-![ROC Curve for CNN](path/to/your/roc_curve.png)
+<img src="roc_curve.png" alt="ROC Curve for CNN" width="400"/>
 
 ## 🧠 Key Insights
 
